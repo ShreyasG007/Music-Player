@@ -34,5 +34,6 @@ public class VideoFile extends MultimediaFile{
 		System.out.println("FileSize : "+getFileSize());
 		System.out.println("Resolution : "+resoluiton);
 		System.out.println("Subtitle : "+subtitle);
+		System.out.println("Git practise");
 	}
 }
